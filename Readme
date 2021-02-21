@@ -1,0 +1,12 @@
+Wifi Duck
+
+/*
+ * This Sketch is intended for a esp8266 wemos with a single neopixel LED connected to D2
+ * The intention is to ping network devices in decending order of importance 
+ * from Device 1 to Device 4 . ie If device 1 and 2 fail , device 1 gets priority and that colour is indicated
+ * Green indicates all devices active, Purple is wifi connection , the colours there after are determined in Ledupdate
+ * In this sketch the HTML is NOT implemented yet , it will at a later stage
+ */
+ 
+ 
+ 
