@@ -1,5 +1,7 @@
 Wifi Duck
 
+Include all the files as they are part of one sketch
+
 /*
  * This Sketch is intended for a esp8266 wemos with a single neopixel LED connected to D2
  * The intention is to ping network devices in decending order of importance 
