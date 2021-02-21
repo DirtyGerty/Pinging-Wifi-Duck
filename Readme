@@ -10,5 +10,16 @@ Include all the files as they are part of one sketch
  * In this sketch the HTML is NOT implemented yet , it will at a later stage
  */
  
+ Items needed are :
+                   single Neopixel LED
+                   small piece of veroboard
+                   Wemos D1 mini with headers
+                   
+ I have include photos on how to assembled the Wemos and Neopixel
+ 
+ 
+ 
+ 
+                   
  
  
